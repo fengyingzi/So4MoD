@@ -1,0 +1,1 @@
+C:\Users\blank\Desktop\mall-master\mall-common\src\main\java\com\macro\mall\common\api\ResultCode.java,C:\Users\blank\Desktop\mall-master\mall-portal\src\main\java\com\macro\mall\portal\domain\QueueEnum.java

@@ -1,0 +1,147 @@
+{
+  "edge": [
+    {
+      "dependencyType": "Extend",
+      "src": "5",
+      "weight": "1.0",
+      "dest": "3"
+    },
+    {
+      "dependencyType": "Extend",
+      "src": "2",
+      "weight": "1.0",
+      "dest": "1"
+    },
+    {
+      "dependencyType": "Extend",
+      "src": "10",
+      "weight": "1.0",
+      "dest": "2"
+    },
+    {
+      "dependencyType": "Extend",
+      "src": "3",
+      "weight": "1.0",
+      "dest": "1"
+    },
+    {
+      "dependencyType": "Extend",
+      "src": "8",
+      "weight": "1.0",
+      "dest": "2"
+    },
+    {
+      "dependencyType": "Extend",
+      "src": "19",
+      "weight": "1.0",
+      "dest": "3"
+    },
+    {
+      "dependencyType": "Extend",
+      "src": "13",
+      "weight": "1.0",
+      "dest": "1"
+    },
+    {
+      "dependencyType": "Extend",
+      "src": "18",
+      "weight": "1.0",
+      "dest": "2"
+    }
+  ],
+  "vertex": [
+    {
+      "name": "C:\\Users\\blank\\Desktop\\spring-petclinic-main\\src\\main\\java\\org\\springframework\\samples\\petclinic\\PetClinicApplication.java",
+      "index": 0
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\spring-petclinic-main\\src\\main\\java\\org\\springframework\\samples\\petclinic\\model\\BaseEntity.java",
+      "index": 1
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\spring-petclinic-main\\src\\main\\java\\org\\springframework\\samples\\petclinic\\model\\NamedEntity.java",
+      "index": 2
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\spring-petclinic-main\\src\\main\\java\\org\\springframework\\samples\\petclinic\\model\\Person.java",
+      "index": 3
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\spring-petclinic-main\\src\\main\\java\\org\\springframework\\samples\\petclinic\\model\\package-info.java",
+      "index": 4
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\spring-petclinic-main\\src\\main\\java\\org\\springframework\\samples\\petclinic\\owner\\Owner.java",
+      "index": 5
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\spring-petclinic-main\\src\\main\\java\\org\\springframework\\samples\\petclinic\\owner\\OwnerController.java",
+      "index": 6
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\spring-petclinic-main\\src\\main\\java\\org\\springframework\\samples\\petclinic\\owner\\OwnerRepository.java",
+      "index": 7
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\spring-petclinic-main\\src\\main\\java\\org\\springframework\\samples\\petclinic\\owner\\Pet.java",
+      "index": 8
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\spring-petclinic-main\\src\\main\\java\\org\\springframework\\samples\\petclinic\\owner\\PetController.java",
+      "index": 9
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\spring-petclinic-main\\src\\main\\java\\org\\springframework\\samples\\petclinic\\owner\\PetType.java",
+      "index": 10
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\spring-petclinic-main\\src\\main\\java\\org\\springframework\\samples\\petclinic\\owner\\PetTypeFormatter.java",
+      "index": 11
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\spring-petclinic-main\\src\\main\\java\\org\\springframework\\samples\\petclinic\\owner\\PetValidator.java",
+      "index": 12
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\spring-petclinic-main\\src\\main\\java\\org\\springframework\\samples\\petclinic\\owner\\Visit.java",
+      "index": 13
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\spring-petclinic-main\\src\\main\\java\\org\\springframework\\samples\\petclinic\\owner\\VisitController.java",
+      "index": 14
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\spring-petclinic-main\\src\\main\\java\\org\\springframework\\samples\\petclinic\\system\\CacheConfiguration.java",
+      "index": 15
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\spring-petclinic-main\\src\\main\\java\\org\\springframework\\samples\\petclinic\\system\\CrashController.java",
+      "index": 16
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\spring-petclinic-main\\src\\main\\java\\org\\springframework\\samples\\petclinic\\system\\WelcomeController.java",
+      "index": 17
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\spring-petclinic-main\\src\\main\\java\\org\\springframework\\samples\\petclinic\\vet\\Specialty.java",
+      "index": 18
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\spring-petclinic-main\\src\\main\\java\\org\\springframework\\samples\\petclinic\\vet\\Vet.java",
+      "index": 19
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\spring-petclinic-main\\src\\main\\java\\org\\springframework\\samples\\petclinic\\vet\\VetController.java",
+      "index": 20
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\spring-petclinic-main\\src\\main\\java\\org\\springframework\\samples\\petclinic\\vet\\VetRepository.java",
+      "index": 21
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\spring-petclinic-main\\src\\main\\java\\org\\springframework\\samples\\petclinic\\vet\\Vets.java",
+      "index": 22
+    }
+  ],
+  "module": []
+}

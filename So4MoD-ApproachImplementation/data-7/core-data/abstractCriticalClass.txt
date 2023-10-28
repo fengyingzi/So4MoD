@@ -1,0 +1,1 @@
+C:\Users\blank\Desktop\dddsample-core-master\src\main\java\se\citerus\dddsample\domain\shared\experimental\ValueObjectSupport.java

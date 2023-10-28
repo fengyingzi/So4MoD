@@ -1,0 +1,461 @@
+{
+  "edge": [
+    {
+      "dependencyType": "Extend",
+      "src": "66",
+      "weight": "1.0",
+      "dest": "68"
+    },
+    {
+      "dependencyType": "Extend",
+      "src": "36",
+      "weight": "1.0",
+      "dest": "29"
+    },
+    {
+      "dependencyType": "Extend",
+      "src": "53",
+      "weight": "1.0",
+      "dest": "48"
+    },
+    {
+      "dependencyType": "Extend",
+      "src": "34",
+      "weight": "1.0",
+      "dest": "29"
+    },
+    {
+      "dependencyType": "Extend",
+      "src": "35",
+      "weight": "1.0",
+      "dest": "29"
+    },
+    {
+      "dependencyType": "Extend",
+      "src": "52",
+      "weight": "1.0",
+      "dest": "48"
+    },
+    {
+      "dependencyType": "Extend",
+      "src": "49",
+      "weight": "1.0",
+      "dest": "48"
+    },
+    {
+      "dependencyType": "Extend",
+      "src": "25",
+      "weight": "1.0",
+      "dest": "48"
+    },
+    {
+      "dependencyType": "Extend",
+      "src": "71",
+      "weight": "1.0",
+      "dest": "68"
+    },
+    {
+      "dependencyType": "Extend",
+      "src": "67",
+      "weight": "1.0",
+      "dest": "68"
+    },
+    {
+      "dependencyType": "Extend",
+      "src": "70",
+      "weight": "1.0",
+      "dest": "68"
+    }
+  ],
+  "vertex": [
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\com\\pathfinder\\api\\GraphTraversalService.java",
+      "index": 0
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\com\\pathfinder\\api\\TransitEdge.java",
+      "index": 1
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\com\\pathfinder\\api\\TransitPath.java",
+      "index": 2
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\com\\pathfinder\\config\\PathfinderApplicationContext.java",
+      "index": 3
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\com\\pathfinder\\internal\\GraphDAO.java",
+      "index": 4
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\com\\pathfinder\\internal\\GraphDAOStub.java",
+      "index": 5
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\com\\pathfinder\\internal\\GraphTraversalServiceImpl.java",
+      "index": 6
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\Application.java",
+      "index": 7
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\application\\ApplicationEvents.java",
+      "index": 8
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\application\\BookingService.java",
+      "index": 9
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\application\\CargoInspectionService.java",
+      "index": 10
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\application\\HandlingEventService.java",
+      "index": 11
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\application\\impl\\BookingServiceImpl.java",
+      "index": 12
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\application\\impl\\CargoInspectionServiceImpl.java",
+      "index": 13
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\application\\impl\\HandlingEventServiceImpl.java",
+      "index": 14
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\application\\util\\DateTestUtil.java",
+      "index": 15
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\application\\util\\SampleDataGenerator.java",
+      "index": 16
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\config\\DDDSampleApplicationContext.java",
+      "index": 17
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\domain\\model\\cargo\\Cargo.java",
+      "index": 18
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\domain\\model\\cargo\\CargoFactory.java",
+      "index": 19
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\domain\\model\\cargo\\CargoRepository.java",
+      "index": 20
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\domain\\model\\cargo\\Delivery.java",
+      "index": 21
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\domain\\model\\cargo\\HandlingActivity.java",
+      "index": 22
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\domain\\model\\cargo\\Itinerary.java",
+      "index": 23
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\domain\\model\\cargo\\Leg.java",
+      "index": 24
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\domain\\model\\cargo\\RouteSpecification.java",
+      "index": 25
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\domain\\model\\cargo\\RoutingStatus.java",
+      "index": 26
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\domain\\model\\cargo\\TrackingId.java",
+      "index": 27
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\domain\\model\\cargo\\TransportStatus.java",
+      "index": 28
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\domain\\model\\handling\\CannotCreateHandlingEventException.java",
+      "index": 29
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\domain\\model\\handling\\HandlingEvent.java",
+      "index": 30
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\domain\\model\\handling\\HandlingEventFactory.java",
+      "index": 31
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\domain\\model\\handling\\HandlingEventRepository.java",
+      "index": 32
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\domain\\model\\handling\\HandlingHistory.java",
+      "index": 33
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\domain\\model\\handling\\UnknownCargoException.java",
+      "index": 34
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\domain\\model\\handling\\UnknownLocationException.java",
+      "index": 35
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\domain\\model\\handling\\UnknownVoyageException.java",
+      "index": 36
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\domain\\model\\location\\Location.java",
+      "index": 37
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\domain\\model\\location\\LocationRepository.java",
+      "index": 38
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\domain\\model\\location\\SampleLocations.java",
+      "index": 39
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\domain\\model\\location\\UnLocode.java",
+      "index": 40
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\domain\\model\\voyage\\CarrierMovement.java",
+      "index": 41
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\domain\\model\\voyage\\SampleVoyages.java",
+      "index": 42
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\domain\\model\\voyage\\Schedule.java",
+      "index": 43
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\domain\\model\\voyage\\Voyage.java",
+      "index": 44
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\domain\\model\\voyage\\VoyageNumber.java",
+      "index": 45
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\domain\\model\\voyage\\VoyageRepository.java",
+      "index": 46
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\domain\\service\\RoutingService.java",
+      "index": 47
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\domain\\shared\\AbstractSpecification.java",
+      "index": 48
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\domain\\shared\\AndSpecification.java",
+      "index": 49
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\domain\\shared\\DomainEvent.java",
+      "index": 50
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\domain\\shared\\Entity.java",
+      "index": 51
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\domain\\shared\\NotSpecification.java",
+      "index": 52
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\domain\\shared\\OrSpecification.java",
+      "index": 53
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\domain\\shared\\Specification.java",
+      "index": 54
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\domain\\shared\\ValueObject.java",
+      "index": 55
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\domain\\shared\\experimental\\DomainEvent.java",
+      "index": 56
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\domain\\shared\\experimental\\Entity.java",
+      "index": 57
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\domain\\shared\\experimental\\Identity.java",
+      "index": 58
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\domain\\shared\\experimental\\ValueObject.java",
+      "index": 59
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\domain\\shared\\experimental\\ValueObjectSupport.java",
+      "index": 60
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\infrastructure\\messaging\\jms\\CargoHandledConsumer.java",
+      "index": 61
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\infrastructure\\messaging\\jms\\HandlingEventRegistrationAttemptConsumer.java",
+      "index": 62
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\infrastructure\\messaging\\jms\\InfrastructureMessagingJmsConfig.java",
+      "index": 63
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\infrastructure\\messaging\\jms\\JmsApplicationEventsImpl.java",
+      "index": 64
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\infrastructure\\messaging\\jms\\SimpleLoggingConsumer.java",
+      "index": 65
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\infrastructure\\persistence\\hibernate\\CargoRepositoryHibernate.java",
+      "index": 66
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\infrastructure\\persistence\\hibernate\\HandlingEventRepositoryHibernate.java",
+      "index": 67
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\infrastructure\\persistence\\hibernate\\HibernateRepository.java",
+      "index": 68
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\infrastructure\\persistence\\hibernate\\InfrastructurePersistenceHibernateConfig.java",
+      "index": 69
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\infrastructure\\persistence\\hibernate\\LocationRepositoryHibernate.java",
+      "index": 70
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\infrastructure\\persistence\\hibernate\\VoyageRepositoryHibernate.java",
+      "index": 71
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\infrastructure\\routing\\ExternalRoutingService.java",
+      "index": 72
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\interfaces\\InterfacesApplicationContext.java",
+      "index": 73
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\interfaces\\booking\\facade\\BookingServiceFacade.java",
+      "index": 74
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\interfaces\\booking\\facade\\dto\\CargoRoutingDTO.java",
+      "index": 75
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\interfaces\\booking\\facade\\dto\\LegDTO.java",
+      "index": 76
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\interfaces\\booking\\facade\\dto\\LocationDTO.java",
+      "index": 77
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\interfaces\\booking\\facade\\dto\\RouteCandidateDTO.java",
+      "index": 78
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\interfaces\\booking\\facade\\internal\\BookingServiceFacadeImpl.java",
+      "index": 79
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\interfaces\\booking\\facade\\internal\\assembler\\CargoRoutingDTOAssembler.java",
+      "index": 80
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\interfaces\\booking\\facade\\internal\\assembler\\ItineraryCandidateDTOAssembler.java",
+      "index": 81
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\interfaces\\booking\\facade\\internal\\assembler\\LocationDTOAssembler.java",
+      "index": 82
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\interfaces\\booking\\web\\BookingDispatcherServlet.java",
+      "index": 83
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\interfaces\\booking\\web\\CargoAdminController.java",
+      "index": 84
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\interfaces\\booking\\web\\RegistrationCommand.java",
+      "index": 85
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\interfaces\\booking\\web\\RouteAssignmentCommand.java",
+      "index": 86
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\interfaces\\handling\\HandlingEventRegistrationAttempt.java",
+      "index": 87
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\interfaces\\handling\\HandlingReportParser.java",
+      "index": 88
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\interfaces\\handling\\file\\UploadDirectoryScanner.java",
+      "index": 89
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\interfaces\\handling\\ws\\HandlingReport.java",
+      "index": 90
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\interfaces\\handling\\ws\\HandlingReportService.java",
+      "index": 91
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\interfaces\\handling\\ws\\HandlingReportServiceImpl.java",
+      "index": 92
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\interfaces\\tracking\\CargoTrackingController.java",
+      "index": 93
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\interfaces\\tracking\\CargoTrackingViewAdapter.java",
+      "index": 94
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\interfaces\\tracking\\TrackCommand.java",
+      "index": 95
+    },
+    {
+      "name": "C:\\Users\\blank\\Desktop\\dddsample-core-master\\src\\main\\java\\se\\citerus\\dddsample\\interfaces\\tracking\\TrackCommandValidator.java",
+      "index": 96
+    }
+  ],
+  "module": []
+}

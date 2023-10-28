@@ -1,0 +1,1 @@
+C:\Users\blank\Desktop\solo-master-raw\src\main\java\org\b3log\solo\model\atom\Entry.java,C:\Users\blank\Desktop\solo-master-raw\src\main\java\org\b3log\solo\model\atom\Feed.java,C:\Users\blank\Desktop\solo-master-raw\src\main\java\org\b3log\solo\model\rss\Item.java,C:\Users\blank\Desktop\solo-master-raw\src\main\java\org\b3log\solo\util\Solos.java
